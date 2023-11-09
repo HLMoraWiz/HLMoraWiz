@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif " width="29px"/> Hi, I’m @Henry Ledezma
 
-<h3 align="center">Hi there ☜(ﾟヮﾟ☜)</h3>
-<h3 align="center">I'm Henry Ledezma! </h3>
+
 
 ---
 
