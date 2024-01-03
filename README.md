@@ -1,18 +1,6 @@
 
-
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif " width="29px"/> Hi, I’m @Henry Ledezma
 
-
-
----
-
-<div align="center">
-  <div style="display: inline-block;">
-    <img src="https://typograssy.deno.dev/api?text=Be%20curious.%20Read%20widely.%20Try%20new%20things.%20What%20people%20call%20intelligence" />
-  </div>
-</div>
-
----
   
 🐱‍🚀 I'm a passionate learner, constantly seeking to expand my knowledge. 🧠
 
